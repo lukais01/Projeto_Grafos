@@ -1,0 +1,6 @@
+CentroSangue1 CentroSangue2
+CentroSangue2 CentroSangue3
+CentroComida1 CentroComida2
+CentroRoupa1 CentroRoupa2
+CentroBrinquedo1 CentroBrinquedo2
+CentroDinheiro1 CentroDinheiro2

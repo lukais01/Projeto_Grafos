@@ -1,2 +1,3 @@
 # Projeto_Grafos
-Alunos : Lucas Akio RA:10425346
+Lucas Akio RA:10425346
+Diogo Fassina Garcia RA: 10417030 

@@ -1,60 +1,67 @@
-# Projeto_Grafos
-Participantes :
-Lucas Akio RA:10425346
-Diogo Fassina Garcia RA: 10417030 
-Soluções Propostas
+# Sistema Inteligente de Centros de Doação Utilizando Grafos
 
-O projeto utiliza Teoria dos Grafos para modelar e analisar redes de centros de doação, permitindo visualizar conexões entre instituições e identificar relações importantes dentro da rede.
+Projeto desenvolvido para a disciplina de Teoria dos Grafos da Universidade Presbiteriana Mackenzie.
 
-Soluções Desenvolvidas
-Modelagem por Grafos
+---
 
-Os centros de doação foram representados através de vértices e suas conexões através de arestas, permitindo a análise estrutural da rede.
+# Objetivo
 
-Separação por Categorias
+O projeto utiliza Teoria dos Grafos para modelar redes de centros de doação, permitindo visualizar conexões entre instituições e analisar relações entre os vértices da rede.
 
-O sistema organiza os centros em diferentes categorias:
+---
 
-Centros de Sangue;
-Centros de Comida;
-Centros de Roupas;
-Centros de Brinquedos;
-Centros de Dinheiro.
+# Problema Resolvido
 
-Cada categoria possui seu próprio grafo para facilitar a visualização e análise.
+O sistema busca facilitar:
+- localização de centros de doação;
+- análise das conexões;
+- organização das categorias;
+- visualização estrutural da rede.
 
-Análise das Conexões
+---
 
-Foram aplicadas técnicas da disciplina para:
+# ODS Relacionadas
 
-identificar vértices mais conectados;
-analisar conectividade;
-verificar propriedades estruturais;
-estudar características da rede.
-Visualização dos Grafos
+- ODS 1 — Erradicação da Pobreza
+- ODS 2 — Fome Zero
+- ODS 3 — Saúde e Bem-Estar
+- ODS 10 — Redução das Desigualdades
 
-Os grafos foram gerados para permitir:
+---
 
-melhor interpretação visual;
-identificação de hubs;
-análise de regiões isoladas;
-compreensão das relações entre centros.
-Uso do GitHub
+# Tecnologias Utilizadas
 
-O GitHub foi utilizado para:
+- Python
+- NetworkX
+- Matplotlib
+- Git/GitHub
+- HTML/CSS
+- Gephi
 
-controle de versão;
-armazenamento do código;
-colaboração entre integrantes;
-organização do projeto;
-documentação do desenvolvimento.
-Tecnologias Utilizadas
-Python
-NetworkX
-Matplotlib
-Git/GitHub
-Gephi
-HTML/CSS
-Objetivo Final
+---
 
-O sistema busca facilitar a organização e análise de redes de doação utilizando conceitos da Teoria dos Grafos aplicados a um problema real.
+# Funcionalidades
+
+- Visualização de grafos
+- Separação por categorias
+- Análise de conexões
+- Identificação de vértices
+- Estruturação da rede
+
+---
+
+# Estrutura do Projeto
+
+```text
+Projeto_Grafos/
+│
+├── README.md
+├── grafo.txt
+├── requirements.txt
+├── main.py
+│
+├── src/
+├── imagens/
+├── docs/
+├── testes/
+└── videos/

@@ -1,0 +1,76 @@
+id,nome,logradouro,numero,bairro,latitude,longitude,sangue,comida,roupas,brinquedos,dinheiro,telefone,horario_semana,horario_sabado,fonte
+1,Pró-Sangue – Posto Clínicas,Av. Dr. Enéas Carvalho de Aguiar,155 – 1º andar,Cerqueira César,-23.5574,-46.6687,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 4573-7800,08h–17h30,08h–16h,prosangue.sp.gov.br
+2,Pró-Sangue – Posto Dante Pazzanese,Av. Dr. Dante Pazzanese,500,Vila Mariana,-23.5853,-46.6513,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 4573-7800,08h–13h,08h–13h,prosangue.sp.gov.br
+3,Pró-Sangue – Posto Mandaqui,R. Voluntários da Pátria,4227,Mandaqui,-23.4846,-46.6304,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 4573-7800,08h–16h30,08h–16h,prosangue.sp.gov.br
+4,Cruz Vermelha São Paulo,Av. Moreira Guimarães,699,Indianópolis,-23.6127,-46.6570,FALSE,TRUE,FALSE,FALSE,TRUE,(11) 5056-8666,08h–18h,08h–14h,cruzvermelhasaopaulo.org.br
+5,Fundo Social de SP – Depósito Jaguaré,Av. Marechal Mário Guedes,301,Jaguaré,-23.5499,-46.7352,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3238-3944,08h–16h,08h–12h,fundosocial.sp.gov.br
+6,Banco de Alimentos – Prefeitura SP,R. Sobral Júnior,264,Vila Maria,-23.5062,-46.5870,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 2207-8770,08h–17h,Fechado,prefeitura.sp.gov.br
+7,CEAGESP – Banco de Alimentos,Av. Dr. Gastão Vidigal,1946,Vila Leopoldina,-23.5327,-46.7360,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 3643-3850,08h–17h,Fechado,ceagesp.gov.br
+8,Exército de Salvação – Centro Liberdade,R. Taguá,209,Liberdade,-23.5614,-46.6365,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 3275-0644,07h–16h,Fechado,exercitodoacoes.org.br
+9,Central de Doações Amigos do Bem,R. Padre Maurício,242,Vila Diva – Zona Leste,-23.5711,-46.5619,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3019-0100,08h30–20h45,09h–11h30,amigosdobem.org
+10,NAF Fraterno – Unidade Irmã Nice,R. Dentista Barreto,978,Vila Carrão,-23.5501,-46.5458,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 2296-3462,08h–14h,Fechado,fraterno.org.br
+11,COLSAN – Posto Tatuapé,Av. Celso Garcia,4815,Tatuapé,-23.5332,-46.5659,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 5178-1614,08h–13h,08h–13h,colsan.org.br
+12,COLSAN – Posto Ermelino Matarazzo,Al. Rodrigo de Brum,1989,Ermelino Matarazzo,-23.4997,-46.4727,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 2545-4652,08h–13h,08h–13h,colsan.org.br
+13,COLSAN – Posto HSPM Aclimação,R. Castro Alves,60 – 4º andar,Aclimação,-23.5668,-46.6393,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 3277-5303,08h–12h30,08h–12h30,colsan.org.br
+14,Banco de Sangue São Paulo – Vila Clementino,R. Borges Lagoa,1450,Vila Clementino,-23.5956,-46.6515,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 5080-4435,08h–12h,Fechado,salvovidas.com
+15,Banco de Sangue Hospital Santa Marcelina,R. Harry Dannenberg,473,Vila Carmosina,-23.5546,-46.4638,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 2070-6081,07h–16h,07h–12h,casa1.org
+16,Banco de Sangue Paulista – Grupo Pulsa,R. Dr. Alceu de Campos Rodrigues,46,Vila Nova Conceição,-23.5900,-46.6729,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 99340-4585,08h–16h,Fechado,salvovidas.com
+17,COLSAN – Sede Administrativo,Av. Ceci,2206,Planalto Paulista,-23.6286,-46.6469,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 5906-7700,07h–17h,Fechado,colsan.org.br
+18,LBV – Centro de Assistência Humanitária,Av. Rudge,898,Bom Retiro,-23.5204,-46.6519,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3225-5535,08h–17h,Fechado,lbv.org
+19,LBV – Centro Comunitário Bom Retiro,Av. Rudge,908,Bom Retiro,-23.5203,-46.6520,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3225-4530,08h–18h,Fechado,lbv.org
+20,Cáritas Arquidiocesana SP – Sede,Av. Mal. Eurico Gaspar Dutra,1853,Parada Inglesa,-23.4847,-46.6099,FALSE,TRUE,TRUE,FALSE,TRUE,(11) 3457-9101,08h30–17h30,Fechado,caritassp.org.br
+21,Missão Belém – Vida Nova,Praça da Sé,47,Sé,-23.5489,-46.6333,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 93459-8191,24h,24h,missaobelem.org.br
+22,Casa de Oração – Pastoral do Povo da Rua,R. Djalma Dutra,3,Luz,-23.5358,-46.6295,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 3106-5531,08h–18h,Fechado,arquisp.org.br
+23,Arsenal da Esperança – SERMIG,R. Dr. Almeida Lima,900,Mooca,-23.5499,-46.6118,FALSE,TRUE,TRUE,FALSE,TRUE,(11) 2292-0977,08h–18h,08h–18h,sermig.org
+24,Cáritas – Núcleo Belém,Av. Álvaro Ramos,366,Belenzinho,-23.5413,-46.5891,FALSE,TRUE,TRUE,FALSE,FALSE,(11) 2693-0287,08h–17h,Fechado,caritassp.org.br
+25,Paróquia São Miguel Arcanjo – Pastoral da Rua,R. Sapucaia,185,Mooca,-23.5480,-46.5934,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 2692-6798,07h30–17h,07h30–11h,arquisp.org.br
+26,ONG Banco de Alimentos SP,R. Atibaia,218,Perdizes,-23.5396,-46.6682,FALSE,TRUE,FALSE,FALSE,TRUE,(11) 3674-0080,09h–18h,Fechado,bancodealimentos.org.br
+27,Anjos da Noite,R. Des. Rocha Portela,634,Artur Alvim,-23.5386,-46.4925,FALSE,TRUE,TRUE,FALSE,TRUE,(11) 2280-4587,10h–17h,09h–21h,anjosda noite.com.br
+28,Bazar Samburá – AACD,R. França Pinto,783,Vila Mariana,-23.5884,-46.6437,FALSE,FALSE,TRUE,TRUE,TRUE,(11) 5908-7899,09h–17h,09h–17h,aacd.org.br
+29,Cáritas – Núcleo Ipiranga,R. Xavier de Almeida,818,Ipiranga,-23.5818,-46.6054,FALSE,TRUE,TRUE,FALSE,FALSE,(11) 2274-8500,08h–17h,Fechado,caritassp.org.br
+30,Exército de Salvação – Bazar Grajaú,Av. Dona Belmira Marin,900,Grajaú,-23.7385,-46.6923,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 4003-2299,09h–17h,09h–17h,exercitodoacoes.org.br
+31,Lar das Crianças da CIP – Santo Amaro,R. Comendador Elias Zarzur,1254,Santo Amaro,-23.6428,-46.6960,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 5522-0438,07h45–18h,07h45–12h,larcriancas.org.br
+32,Instituto Olga Kos,Av. São João,313 – 11º andar,Centro Histórico,-23.5441,-46.6374,FALSE,FALSE,FALSE,FALSE,TRUE,(11) 3081-9300,09h–18h,Fechado,olgakos.org.br
+33,LBV – Centro Comunitário Cidade Dutra,Av. Jacinto Júlio,59,Jardim Satélite,-23.7140,-46.6960,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3225-4656,08h–18h,Fechado,lbv.org
+34,Bazar Beneficente Ten Yad – Bom Retiro,R. dos Bandeirantes,469,Bom Retiro,-23.5278,-46.6359,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 3312-5618,09h–17h,Fechado,tenyad.org.br
+35,Exército de Salvação – Bazar Mauá,R. Luís Mariani,136,Centro – Mauá,-23.6653,-46.4587,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 4003-2299,10h–18h,09h15–18h,exercitodoacoes.org.br
+36,Banco de Alimentos – Igreja Batista Penha,R. Caquito,222,Penha de França,-23.5210,-46.5445,FALSE,TRUE,FALSE,TRUE,FALSE,(11) 2647-5255,09h–18h,09h–18h,churchbaptistpenha.org.br
+37,Hemocentro São Lucas – Vila Olímpia,Av. Santo Amaro,2468,Brooklin,-23.6057,-46.6757,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 5545-3900,08h–17h,08h–13h,saolucas.com.br
+38,Cáritas Arquidiocesana – Centro Bela Vista,R. Major Diogo,834,Bela Vista,-23.5580,-46.6380,FALSE,TRUE,TRUE,FALSE,TRUE,(11) 3104-5023,08h30–17h,Fechado,caritassp.org.br
+39,Missão Paz – Centro de Acolhida Imigrantes,R. Glicério,225,Glicério,-23.5548,-46.6302,FALSE,TRUE,TRUE,FALSE,TRUE,(11) 3208-0068,08h–17h,08h–12h,missaonspaz.org.br
+40,Sociedade São Vicente de Paulo – Conselho Central SP,R. Cel. Oscar Porto,823,Paraíso,-23.5735,-46.6507,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 5574-6600,09h–17h,Fechado,ssvp.org.br
+41,Associação Samaritanos SP,R. Rego Freitas,542,Centro,-23.5441,-46.6438,FALSE,FALSE,TRUE,FALSE,FALSE,(11) 3337-1775,08h–19h,08h–19h,samaritanos.org.br
+42,Samaritanos SP – Unidade Cambuci,R. Cesário Ramalho,157,Cambuci,-23.5636,-46.6353,FALSE,FALSE,TRUE,FALSE,TRUE,(11) 3208-2090,10h–18h,10h–18h,samaritanos.org.br
+43,Banco de Alimentos Paróquia Nossa Sra. Aparecida – Santana,R. Voluntários da Pátria,1549,Santana,-23.4980,-46.6256,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 2951-0447,08h–17h,Fechado,arquidiosesedsp.org.br
+44,Rede Feminina de Combate ao Câncer SP – Sede,Av. Ipiranga,927,Centro,-23.5404,-46.6350,FALSE,FALSE,TRUE,FALSE,FALSE,(11) 3226-7929,08h30–16h30,Fechado,redefemininasp.org.br
+45,Centro de Distribuição Banco do Vestuário SP,R. Barão de Limeira,539,Campos Elísios,-23.5345,-46.6461,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 3392-2288,08h–17h,08h–12h,bancodovestuario.org.br
+46,Associação Obra de Maria – Zona Norte,R. Zacarias de Góis,37,Vila Guilherme,-23.5011,-46.6017,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 2951-8822,08h–17h,08h–12h,obramaria.org.br
+47,ONG Viva e Deixe Viver – Vila Prudente,R. Min. Godói,1484,Vila Prudente,-23.5801,-46.5617,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 2071-4545,08h–17h,08h–12h,vivadeixeviver.org.br
+48,Associação Feminina de Educação e Orientação Social – AFABES,Av. do Estado,5200,Ipiranga,-23.5693,-46.6028,FALSE,TRUE,FALSE,FALSE,TRUE,(11) 2273-0088,09h–17h,Fechado,afabes.org.br
+49,Centro Social Nossa Sra. do Bom Parto – Brás,R. do Gasômetro,150,Brás,-23.5427,-46.6178,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 3315-0060,07h–17h,07h–12h,bomparto.org.br
+50,Associação Comunitária Monte Azul,R. Monte Azul,1442,Campo Limpo,-23.6653,-46.7409,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 5843-7744,08h–17h,08h–12h,monteazul.org.br
+51,COLSAN – Posto Campo Limpo,Estrada do M'Boi Mirim,3742,Campo Limpo,-23.6688,-46.7388,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 5178-3800,08h–13h,08h–13h,colsan.org.br
+52,Banco de Alimentos – Paróquia São Luís Gonzaga – Pinheiros,R. Henrique Schaumann,80,Pinheiros,-23.5605,-46.6917,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 3031-0070,08h–17h,08h–12h,arquidiosesedsp.org.br
+53,Pastoral da Criança – Núcleo São Mateus,R. Jacyra,150,São Mateus,-23.6221,-46.4749,FALSE,TRUE,FALSE,TRUE,FALSE,(11) 6156-3300,08h–17h,Fechado,pastoraldacrianca.org.br
+54,Exército de Salvação – Centro Santana,R. Dr. Zuquim,675,Santana,-23.5025,-46.6233,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 2280-6400,08h–17h,Fechado,exercitodoacoes.org.br
+55,GRAACC – Doações,R. Loefgreen,2505,Vila Clementino,-23.5989,-46.6468,FALSE,FALSE,FALSE,FALSE,TRUE,(11) 5080-8400,09h–18h,Fechado,graacc.org.br
+56,Banco de Alimentos – Paróquia Imaculada Conceição – Mooca,R. da Mooca,1558,Mooca,-23.5477,-46.6028,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 6693-3456,08h–17h,08h–12h,arquidiosesedsp.org.br
+57,Casa do Zezinho – Zona Sul,R. Silva Bueno,1632,Ipiranga,-23.5880,-46.5998,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 2272-0501,08h–18h,08h–12h,casadozezinho.org.br
+58,Lar Escola São Francisco – Lapa,Av. Francisco Morato,4200,Jardim Ester,-23.5488,-46.7345,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 3767-0233,07h–18h,07h–12h,larescolasaofrancisco.org.br
+59,Banco de Sangue – Hospital São Camilo Pompeia,Av. Pompeia,1024,Pompeia,-23.5265,-46.6886,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 3800-0000,08h–16h,08h–12h,hospitalsaocamilo.org.br
+60,Banco de Sangue – Hospital Sírio-Libanês,R. Adma Jafet,91,Bela Vista,-23.5562,-46.6535,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 3394-3000,08h–17h,Fechado,hospitalsiriolibanes.org.br
+61,Banco de Sangue – Hospital Albert Einstein,Av. Albert Einstein,627 – Bloco A1,Morumbi,-23.5993,-46.7190,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 2151-1233,08h–17h,08h–13h,einstein.br
+62,Banco de Sangue – Hospital Oswaldo Cruz,R. João Julião,331,Paraíso,-23.5673,-46.6447,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 3549-1000,08h–16h,08h–12h,hospitaloswaldocruz.com.br
+63,Banco de Sangue – Hospital das Clínicas – INCOR,Av. Dr. Enéas Carvalho de Aguiar,44,Cerqueira César,-23.5540,-46.6687,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 2661-5000,08h–16h,Fechado,incor.zerbini.org.br
+64,Banco de Sangue – Hospital Beneficência Portuguesa,R. Maestro Cardim,769,Bela Vista,-23.5601,-46.6430,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 3505-1000,07h30–17h,Fechado,bportugesa.org.br
+65,Banco de Sangue – Hospital Samaritano,R. Conselheiro Brotero,1486,Higienópolis,-23.5422,-46.6622,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 3824-0022,07h30–17h,07h30–12h,samaritano.com.br
+66,Exército de Salvação – Centro Itaquera,R. Azurita,50,Itaquera,-23.5421,-46.4547,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 2956-8200,08h–17h,Fechado,exercitodoacoes.org.br
+67,Banco de Alimentos – ONG Banco de Alimentos Lapa,R. Catão,612,Lapa,-23.5251,-46.7037,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 3836-2299,08h–17h,Fechado,bancodealimentos.org.br
+68,Pastoral Social – Diocese Santo André – Vila Prudente,Av. Sapopemba,7200,Vila Prudente,-23.5980,-46.5350,FALSE,TRUE,TRUE,TRUE,FALSE,(11) 2071-7700,08h–17h,Fechado,diocesesantoandre.org.br
+69,Asociação Despertar – Zona Norte,R. Deputado Emílio Carlos,786,Vila Medeiros,-23.4799,-46.5959,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 2951-4422,08h–17h,08h–12h,associacaodespear.org.br
+70,Ação Comunitária do Brasil – Pinheiros,R. Groenlândia,342,Jardim Europa,-23.5831,-46.6879,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3819-6699,08h–18h,08h–12h,acaobrasil.org.br
+71,Banco de Alimentos – Instituto Aliança com o Adolescente,Av. Paes de Barros,955,Mooca,-23.5484,-46.5920,FALSE,TRUE,FALSE,FALSE,TRUE,(11) 2294-6500,08h–18h,Fechado,institutoalianca.org.br
+72,Exército de Salvação – Centro Jabaquara,R. das Espinheiras,460,Jabaquara,-23.6536,-46.6528,FALSE,FALSE,TRUE,TRUE,FALSE,(11) 5062-4100,08h–17h,Fechado,exercitodoacoes.org.br
+73,Centro de Voluntariado SP – Doações,R. Bela Cintra,1061,Cerqueira César,-23.5561,-46.6662,FALSE,TRUE,TRUE,TRUE,TRUE,(11) 3266-8440,09h–18h,Fechado,voluntariado.org.br
+74,Casa Transitória Elias – Igreja Batista Central,R. Major Quedinho,90,Centro,-23.5444,-46.6433,FALSE,TRUE,FALSE,FALSE,FALSE,(11) 3105-1122,08h–17h,08h–12h,ibcsp.org.br
+75,Instituto de Medicina Social e Criminologia SP – Banco de Sangue,R. Dr. Mário Cardim,370,Vila Mariana,-23.5898,-46.6336,TRUE,FALSE,FALSE,FALSE,FALSE,(11) 5084-7900,08h–16h,08h–12h,imesc.sp.gov.br
